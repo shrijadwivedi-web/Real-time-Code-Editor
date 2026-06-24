@@ -92,7 +92,7 @@ const App = () => {
     return (
       <>
         <div className="project-info">
-          <h1>RealTimeCodeEditor</h1>
+          <h1>CodeForge</h1>
         </div>
       <div className="join-container">
         <div className="join-form">
